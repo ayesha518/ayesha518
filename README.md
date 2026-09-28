@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Ayesha Prasani 👋
 
-<!--
-**ayesha518/ayesha518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Professional | HNDIT Graduate | HRM Diploma Holder
 
-Here are some ideas to get you started:
+I am an adaptable and detail-oriented IT professional with a Higher National
+Diploma in Information Technology (HNDIT) from SLIATE and a completed
+Diploma in Human Resource Management from IMBS Green University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have practical experience in web and database development, along with
+hands-on experience in inventory management and stock recording.
+
+### 💻 Technical Skills
+
+- Java
+- PHP
+- HTML5 & CSS3
+- JavaScript
+- JSP & Servlets
+- MySQL / SQL
+- phpMyAdmin
+- XAMPP
+
+### 🛠️ Tools & Technologies
+
+- Apache NetBeans
+- Eclipse IDE
+- Visual Studio Code
+- GitHub
+- Apache Tomcat
+
+### 📌 Projects
+
+- Library Management System
+- Book Shop Inventory System
+- Hostel Management System
+- Jewellery Shop Web Application
+- Coffee Shop Responsive Website
+- Garment Production Tracking System
+
+### 📚 Education
+
+- Higher National Diploma in Information Technology (HNDIT) – SLIATE
+- Diploma in Human Resource Management – IMBS Green University
+
+### 🎯 Career Interests
+
+IT | Web Development | Database Management | Administration |
+Inventory & Store Management
+
+---
+
+📫 Feel free to explore my repositories and projects.
