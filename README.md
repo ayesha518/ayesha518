@@ -1,10 +1,13 @@
 # Hi, I'm Ayesha Prasani 👋
 
-### IT Professional | HNDIT Graduate | HRM Diploma Holder
+### IT Professional | HNDIT – Final Examination Completed | HRM Diploma Holder
 
-I am an adaptable and detail-oriented IT professional with a Higher National
-Diploma in Information Technology (HNDIT) from SLIATE and a completed
-Diploma in Human Resource Management from IMBS Green University.
+I am an adaptable and detail-oriented IT professional who has completed the
+Higher National Diploma in Information Technology (HNDIT) at SLIATE, with
+the final examination completed and results pending.
+
+I have also completed a Diploma in Human Resource Management from
+IMBS Green University.
 
 I have practical experience in web and database development, along with
 hands-on experience in inventory management and stock recording.
@@ -40,7 +43,11 @@ hands-on experience in inventory management and stock recording.
 ### 📚 Education
 
 - Higher National Diploma in Information Technology (HNDIT) – SLIATE
+  - Final Examination Completed
+  - Results Pending
+
 - Diploma in Human Resource Management – IMBS Green University
+  - Completed
 
 ### 🎯 Career Interests
 
