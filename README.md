@@ -38,8 +38,7 @@ hands-on experience in inventory management and stock recording.
 - Hostel Management System
 - Jewellery Shop Web Application
 - Coffee Shop Responsive Website
-- Garment Production Tracking System
-
+- NARO – Daily Dairy Delivery Website
 ### 📚 Education
 
 - Higher National Diploma in Information Technology (HNDIT) – SLIATE
